@@ -1,8 +1,8 @@
 import time
 for i in range(101):
     if i % 2== 0 :
-        print("fizz")
+        print(i," = fizz")
     else :
-        print("fuzz")
+        print(i," = fuzz")
     time.sleep(1)
     
