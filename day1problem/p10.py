@@ -20,7 +20,7 @@ print("LHS =" , LHS,"RHS =" , RHS)
 if LHS == RHS :
     print ("LHS == RHS HENCE PROVED")
 
-print("to prove (a+b)**4 = a**4 + b**4 + 4*a**3*b + 4*b**3*a + 12*a**2*b**2")
+print("to prove (a+b)**4 = a**4 + b**4 + 4*a**3*b + 4*b**3*a + 6*a**2*b**2")
 a=input("enter first number = ")
 a=int(a)
 b=input("enter second number = ")
