@@ -2,7 +2,7 @@ x=input("enter first number = ")
 x=float(x)
 y=input("enter second number = ")
 y=float(y)
-opr=input("enter the operation +,-,* or / = ")
+opr=input("enter the operation +,-,* or / : ")
 if opr == "+" :
     print("sum =",x+y)
 elif opr == "-" :
