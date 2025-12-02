@@ -1,9 +1,9 @@
 import math
-x=input("enter first number = ")
-x=float(x)
-y=input("enter second number = ")
-y=float(y)
-opr=input("enter the operation +,-,*,/,sqrt,sin,cos,tan,log or exp :")
+x = input("enter first number = ")
+x = float(x)
+y = input("enter second number = ")
+y = float(y)
+opr = input("enter the operation +,-,*,/,sqrt,sin,cos,tan,log or exp :")
 if opr == "+" :
     print("sum =",x+y)
 elif opr == "-" :
