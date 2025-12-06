@@ -2,7 +2,7 @@ import random
 score = []
 a = []
 b = []
-for i in range(5) :
+for i in range(10) :
     print ( "chance" ,i+1) 
     a.append(int(input("Enter a number between 1 to 100 : ")))
     b.append(random.randint(1,100))
